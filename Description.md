@@ -8,11 +8,11 @@ Now, to control these shift-registers we need serial and clock data which I prov
 
 The program I made makes it easy to make anything on the board.  For example, to make a letter 'H' you have to enter a design in the array made of 1's and 0's :
 
-1 1 1 1 1 1 1
-0 0 0 1 0 0 0
-0 0 0 1 0 0 0 
-0 0 0 1 0 0 0
-1 1 1 1 1 1 1
+1 1 1 1 1 1 1 <br/>
+0 0 0 1 0 0 0 <br/>
+0 0 0 1 0 0 0 <br/>
+0 0 0 1 0 0 0 <br/>
+1 1 1 1 1 1 1 <br/>
 
 Here are some more images of my project: https://drive.google.com/folderview?id=0B7vuRfvcCVVeXzVFd2JSbWs4Wms&usp=sharing
 
